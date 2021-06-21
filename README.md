@@ -12,3 +12,5 @@ then
 npm run dev
 
 to start app
+------------------------------------
+This is the re uploaded prototype. The original was uploaded to a university account and I have backed it up here.
